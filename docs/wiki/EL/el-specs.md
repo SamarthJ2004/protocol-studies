@@ -247,7 +247,7 @@ Observations from the plot:
 
 #### Extended Simulation: Long-term Effects on Gas Limit and Fee
 
-Having visualized the immediate impact of the gas price calculation function over a range of gas usage scenarios, let's to consider its effect over an extended period. Specifically, how does this dynamic influence the Ethereum network over tens of thousands of blocks, especially under conditions of maximum demand where each block reaches its gas limit?
+Having visualized the immediate impact of the gas price calculation function over a range of gas usage scenarios, let's consider its effect over an extended period. Specifically, how does this dynamic influence the Ethereum network over tens of thousands of blocks, especially under conditions of maximum demand where each block reaches its gas limit?
 
 The following plot simulates this scenario over 100,000 blocks, assuming a constant maximum demand, to project the evolution of the gas limit and base fee:
 
